@@ -1,0 +1,37 @@
+id:1
+name:"RB4391D"
+description:"開創一切的Wayfarer徒步旅行者啟發了這全新、休閒的樣式：RB4391D。新增的平面鏡片添加了它新穎俏皮的特色。推出純色與偏光鏡片——透明與經典黑色。"
+
+id:2
+name:"AVIATOR CLASSIC飛行員‧經典"
+description:"作為目前世界上最具代表性的太陽眼鏡款式之一，雷朋Aviator Classic 太陽眼鏡最初是於1937 年為美國飛行員設計的。 Aviator Classic 太陽眼鏡是歷久彌新的款式，將帥氣的飛行員風格與卓越的品質、性能和舒適度相結合。"
+
+id:3
+name:"EMY BIO-BASED"
+description:"點燃一切的鼓動。鼓舞您追求事物的動力。有人說這是種精神狀態。我們稱之為脈動。這存在於每個人的心中，但只有少數人能真正感受。感受脈動。"
+id:4
+name:"RB4320CH CHROMANCE"
+description:"飛行員型輪廓給予高飛、運動活力的造型。輕質尼龍纖維則給予配戴舒適特性。這些鏡架，以瀟灑的姿態去任何地方、做所有事。 搭配強化色彩的Chromance戀彩鏡面鏡片或帶有亮麗漸變色調的偏光鏡片，這些樣式專為實用並吸引注意目光而設計。"
+
+id:5
+name:"RB4264 CHROMANCE"
+description:"當非凡視野建立在先進設計和高性能基礎時，Ray-Ban雷朋總能隨時應對挑戰：以完全風格體驗革命性的Chromance戀彩鏡片科技。 大膽的外型以強勢的新方型輪廓展現，搭配獨特全新鏡片，這打破遊戲規則的新革命，使高性能視野的等級更上一層。備有霧光黑或玳瑁色及亮光灰，此輕質，有彈性的尼龍纖維鏡架以搭配亮藍閃光或時尚鏡面的革命性Chromance戀彩鏡片展現特色，給予最大對比與強化色彩的視覺感受，提供了更亮麗且完美清晰的視野，以完美應對活耀的都會生活。"
+
+id:6
+name:"LENNY KRAVITZ X AVIATOR REVERSE"
+description:"The Lenny Kravitz Capsule Collection brings the historic Aviator design into the future. This limited-edition Total Black Aviator Reverse is a celebration of defying convention, created with the inimitable artist Lenny Kravitz whose signature is etched on the left lens. Each pair comes with limited-edition packaging and a premium case signed by Lenny Kravitz. "
+
+id:7
+name:"AVIATOR FLASH LENSES GRADIENT飛行員‧閃光漸變鏡片"
+description:"Aviator 可能是眼鏡歷史上最經典的太陽鏡款式，但這並不代表它只能停留在過去，無法邁向未來。全新推出的 Aviator 漸變閃光鏡片款，就是 Ray-Ban 讓傳奇散發出新魅力的最佳證明。
+
+經典的 Aviator 款式與水晶鏡面鏡片相結合，為其帶來新生命，成為時尚新浪潮的矚目明星。
+
+全新漸變閃光鏡片擁有超強防曬能力，散發出從容不迫的自信魅力。金屬鏡框質料輕盈，彈性十足。在黑色鏡框的勾勒下，光芒四射的鏡面鏡片更顯奪目氣質，隨時以斑斕的彩虹色調強化您的時尚形象。
+
+全新系列將在 ray-ban.com 中進行獨家預覽，供粉絲一睹為快。"
+
+id:8
+name:"RB3549"
+description:"準備起飛。金屬雙梁搭配射出成形的橡膠與鋼材平面鏡腿，在提供經典Ray-Ban雷朋造型的同時，也賦予整天配戴舒適性。選擇喜歡的槍管灰色、金色或亮光黑配色，現在，更可擁有單色綠以及漸變偏光鏡片的組合。"
+
